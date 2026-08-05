@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi! I’m a web developer passionate about crafting modern, interactive, and user-friendly websites. I enjoy turning ideas into real-world web experiences using clean code, creative design, and efficient performance.
+👋 Hi! I'm Rupam, a Computer Science student and aspiring developer passionate about building modern, interactive, and user-friendly digital experiences.
+
+💡 I enjoy exploring new project ideas, learning new technologies, and turning creative concepts into practical solutions. I’m especially interested in developing projects that solve real-life problems and create a meaningful impact.
+
+🚀 I believe every project is an opportunity to learn, improve, and build something useful. I’m continuously working on strengthening my skills in programming, web development, and problem-solving.
+
+🌱 Currently, I’m learning, building, experimenting, and growing—one project at a time!
 
 
 # 💻 Tech Stack:
